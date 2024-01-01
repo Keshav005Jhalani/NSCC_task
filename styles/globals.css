@@ -25,3 +25,22 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.navclass{
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.aboutclass{
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+*{
+  background-color: aliceblue;
+}
